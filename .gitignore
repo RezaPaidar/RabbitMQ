@@ -449,3 +449,14 @@ $RECYCLE.BIN/
 ##
 .vscode/*
 /.vscode/
+/.vs/rabbitmq_Test/v17/.suo
+/rabbitmq_Test/bin/Debug/net9.0/rabbitmq_Test.dll
+/rabbitmq_Test/bin/Debug/net9.0/rabbitmq_Test.exe
+/rabbitmq_Test/bin/Debug/net9.0/rabbitmq_Test.pdb
+/rabbitmq_Test/obj/Debug/net9.0/ref/rabbitmq_Test.dll
+/rabbitmq_Test/obj/Debug/net9.0/apphost.exe
+/rabbitmq_Test/obj/Debug/net9.0/refint/rabbitmq_Test.dll
+/rabbitmq_Test/obj/Debug/net9.0/rabbitmq_Test.dll
+/rabbitmq_Test/obj/Debug/net9.0/rabbitmq_Test.pdb
+/rabbitmq_Test/obj/Debug/net9.0/rabbitmq_Test.AssemblyInfoInputs.cache
+/rabbitmq_Test/obj/Debug/net9.0/rabbitmq_Test.AssemblyInfo.cs
