@@ -31,7 +31,7 @@ All queues support message priorities **0–255**, with higher numbers meaning h
 ## Installation
 
 ### **Prerequisites**
-- .NET **8.0 SDK**  
+- .NET **9.0 SDK**  
 - RabbitMQ **3.8+** (with priority queue support)  
 - `RabbitMQ.Client` **7.1.2+**
 
