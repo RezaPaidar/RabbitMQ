@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m.paidar\\Desktop\\rabbitmq_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{075DE76F-A1DF-424B-9219-89A278DD22AE}|rabbitmq_Test\\rabbitmq_Test.csproj|c:\\users\\m.paidar\\desktop\\rabbitmq_test\\rabbitmq_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DE76F-A1DF-424B-9219-89A278DD22AE}|rabbitmq_Test\\rabbitmq_Test.csproj|solutionrelative:rabbitmq_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DE76F-A1DF-424B-9219-89A278DD22AE}|rabbitmq_Test\\rabbitmq_Test.csproj|c:\\users\\m.paidar\\desktop\\rabbitmq_test\\rabbitmq_test\\rabbitmq\\queuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DE76F-A1DF-424B-9219-89A278DD22AE}|rabbitmq_Test\\rabbitmq_Test.csproj|solutionrelative:rabbitmq_test\\rabbitmq\\queuemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DE76F-A1DF-424B-9219-89A278DD22AE}|rabbitmq_Test\\rabbitmq_Test.csproj|c:\\users\\m.paidar\\desktop\\rabbitmq_test\\rabbitmq_test\\rabbitmq\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DE76F-A1DF-424B-9219-89A278DD22AE}|rabbitmq_Test\\rabbitmq_Test.csproj|solutionrelative:rabbitmq_test\\rabbitmq\\iqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075DE76F-A1DF-424B-9219-89A278DD22AE}|rabbitmq_Test\\rabbitmq_Test.csproj|c:\\users\\m.paidar\\desktop\\rabbitmq_test\\rabbitmq_test\\myrmq\\myqueues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075DE76F-A1DF-424B-9219-89A278DD22AE}|rabbitmq_Test\\rabbitmq_Test.csproj|solutionrelative:rabbitmq_test\\myrmq\\myqueues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m.paidar\\Desktop\\rabbitmq_Test\\rabbitmq_Test\\Program.cs",
+              "RelativeDocumentMoniker": "rabbitmq_Test\\Program.cs",
+              "ToolTip": "C:\\Users\\m.paidar\\Desktop\\rabbitmq_Test\\rabbitmq_Test\\Program.cs",
+              "RelativeToolTip": "rabbitmq_Test\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAzwGkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T07:05:15.011Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyQueues.cs",
+              "DocumentMoniker": "C:\\Users\\m.paidar\\Desktop\\rabbitmq_Test\\rabbitmq_Test\\MyRMQ\\MyQueues.cs",
+              "RelativeDocumentMoniker": "rabbitmq_Test\\MyRMQ\\MyQueues.cs",
+              "ToolTip": "C:\\Users\\m.paidar\\Desktop\\rabbitmq_Test\\rabbitmq_Test\\MyRMQ\\MyQueues.cs",
+              "RelativeToolTip": "rabbitmq_Test\\MyRMQ\\MyQueues.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wEAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:14:04.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\m.paidar\\Desktop\\rabbitmq_Test\\rabbitmq_Test\\RabbitMQ\\IQueueService.cs",
+              "RelativeDocumentMoniker": "rabbitmq_Test\\RabbitMQ\\IQueueService.cs",
+              "ToolTip": "C:\\Users\\m.paidar\\Desktop\\rabbitmq_Test\\rabbitmq_Test\\RabbitMQ\\IQueueService.cs",
+              "RelativeToolTip": "rabbitmq_Test\\RabbitMQ\\IQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:07:31.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueManager.cs",
+              "DocumentMoniker": "C:\\Users\\m.paidar\\Desktop\\rabbitmq_Test\\rabbitmq_Test\\RabbitMQ\\QueueManager.cs",
+              "RelativeDocumentMoniker": "rabbitmq_Test\\RabbitMQ\\QueueManager.cs",
+              "ToolTip": "C:\\Users\\m.paidar\\Desktop\\rabbitmq_Test\\rabbitmq_Test\\RabbitMQ\\QueueManager.cs",
+              "RelativeToolTip": "rabbitmq_Test\\RabbitMQ\\QueueManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA2wEIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T08:06:40.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
