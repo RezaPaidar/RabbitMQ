@@ -34,3 +34,4 @@ C:\Users\m.paidar\Desktop\rabbitmq_Test\rabbitmq_Test\bin\Debug\net9.0\System.Th
 C:\Users\m.paidar\Desktop\rabbitmq_Test\rabbitmq_Test\obj\Debug\net9.0\rabbitmq.A47C3AE1.Up2Date
 C:\Users\m.paidar\Desktop\rabbitmq_Test\rabbitmq_Test\obj\Debug\net9.0\rabbitmq_Test.genruntimeconfig.cache
 C:\Users\m.paidar\Desktop\rabbitmq_Test\rabbitmq_Test\obj\Debug\net9.0\ref\rabbitmq_Test.dll
+C:\Users\m.paidar\Desktop\rabbitmq_Test\rabbitmq_Test\obj\Debug\net9.0\rabbitmq_Test.sourcelink.json
